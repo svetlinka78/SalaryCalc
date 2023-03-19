@@ -6,9 +6,9 @@ using Calculator.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using NetSalaryCalc.Models;
+using SalaryCalc.Models;
 
-namespace NetSalaryCalc.Controllers
+namespace SalaryCalc.Controllers
 {
     [Route("[controller]")]
     [ApiController]

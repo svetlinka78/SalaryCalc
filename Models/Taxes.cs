@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NetSalaryCalc.Models
+namespace SalaryCalc.Models
 {
     public class Taxes
     {

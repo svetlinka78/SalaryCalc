@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NetSalaryCalc.Helpers
+namespace SalaryCalc.Helpers
 {
     public class CustomDateAttribute : ValidationAttribute
     {

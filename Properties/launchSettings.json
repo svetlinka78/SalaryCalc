@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "NetSalaryCalc": {
+    "SalaryCalc": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "salary",

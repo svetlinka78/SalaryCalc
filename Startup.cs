@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 using Calculator;
 using Calculator.Interfaces;
 
-namespace NetSalaryCalc
+namespace SalaryCalc
 {
     public class Startup
     {
